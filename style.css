@@ -171,6 +171,7 @@ body {
   .img-box {
     margin-top: 10px;
     padding: 5px;
+    gap: 20px;
   }
   .login-section{
     margin-bottom: 70px;
